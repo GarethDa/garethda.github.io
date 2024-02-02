@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 'Project Three'
+title: 'Broot Force'
 ---
+Broot Force is a vertical scroller in which you play as a root digging to search for some water to grow a tree. The player must try to get as far as they can while avoiding obstacles and staying hydrated.
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
+Broot Force is a game created in 48 hours for the 2023 Global Game Jam at Ontario Tech University.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+{% include image.html url="https://kanomisu.itch.io/brootforce" image="projects/proj-3/BF1.png" %}
+{% include image.html url="https://kanomisu.itch.io/brootforce" image="projects/proj-3/BF2.png" %}
