@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Boomerangers'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+Boomerangers is a 3D, first-person, local multiplayer arena shooter that features the use of boomerangs instead of guns. It uses split-screen multiplayer and features direction-based damage, rewarding players more damage for hitting a player from the behind with your boomerang.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+{% include image.html url="https://kanomisu.itch.io/boomerangers" image="projects/proj-2/boomer1.png" %}
+{% include image.html url="https://kanomisu.itch.io/boomerangers" image="projects/proj-2/boomer2.png" %}
