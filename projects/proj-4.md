@@ -1,8 +1,11 @@
 ---
 layout: post
-title: 'Project Four'
+title: 'Objec-Chimp'
 ---
 
-In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula.
+In Objec-Chimp, players control a monkey defense lawyer and must run down the time by throwing objects at the prosecutor and the witness to interrupt their dialogue. If they can prevent the witness from pointing the finger at the accused before the time runs out, then the judge will grow tired of the absurdity of the case and throw the whole thing out.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
+Objec-Chimp is a game created in 48 hours for the 2024 Global Game Jam at Ontario Tech University.
+
+{% include image.html url="https://garethd.itch.io/objec-chimp" image="projects/proj-4/OC1.png" %}
+{% include image.html url="https://garethd.itch.io/objec-chimp" image="projects/proj-4/OC1.png" %}
