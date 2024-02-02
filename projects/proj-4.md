@@ -8,4 +8,4 @@ In Objec-Chimp, players control a monkey defense lawyer and must run down the ti
 Objec-Chimp is a game created in 48 hours for the 2024 Global Game Jam at Ontario Tech University.
 
 {% include image.html url="https://garethd.itch.io/objec-chimp" image="projects/proj-4/OC1.png" %}
-{% include image.html url="https://garethd.itch.io/objec-chimp" image="projects/proj-4/OC1.png" %}
+{% include image.html url="https://garethd.itch.io/objec-chimp" image="projects/proj-4/OC2.png" %}
