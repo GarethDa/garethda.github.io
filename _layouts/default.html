@@ -17,6 +17,13 @@
         {{ page.title }} | {{ site.title }}
       {% endif %}
     </title>
+
+    <style>
+      body {
+        background-image: url({{ site.github.url }}/assets/cubes.jpg
+      }
+    </style>
+    
     <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
@@ -30,7 +37,7 @@
     <!-- Use Jekyll SEO plugin -->
     {% seo %}
   </head>
-  <body style="background-color: #ff0000">
+  <body>
     <div class="site-container">
       {% include header.html %}
       {{ content }}
