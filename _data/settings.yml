@@ -21,7 +21,7 @@ projects:
 social:
 - {icon: 'github',    link: 'https://github.com/garethda'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/gareth-dawes'}
-- {icon: 'envelope',  link: 'mailto:mailto:gareth.dawes@hotmail.com'}
+- {icon: 'envelope',  link: 'mailto:gareth.dawes@hotmail.com'}
 - {icon: 'itch', link: 'https://garethd.itch.io/'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
