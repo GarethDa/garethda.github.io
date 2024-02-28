@@ -17,11 +17,6 @@
         {{ page.title }} | {{ site.title }}
       {% endif %}
     </title>
-    <style>
-      body {
-        filter: blur(10px);
-      }
-    </style>
     <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
@@ -36,6 +31,11 @@
     {% seo %}
   </head>
   <body style="background-image: url({{ site.github.url }}/assets/cubes.jpg); background-size: cover; background-repeat: no-repeat;">
+    <style>
+      body {
+        filter: blur(10px);
+      }
+    </style>
     <div class="site-container">
       {% include header.html %}
       {{ content }}
