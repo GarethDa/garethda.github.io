@@ -2,9 +2,9 @@
 layout: post
 title: 'Broot Force'
 ---
-Broot Force is a vertical scroller in which you play as a root digging to search for some water to grow a tree. The player must try to get as far as they can while avoiding obstacles and staying hydrated.
+Broot Force is a mobile game which incorporates tower defense and resource collection/incremental upgrade components. The player takes control of an alien tree which has begun to sprout on planet Earth. Their goal is to siphon the Earth of all its resources by reaching the center of the planet with the tree's roots. Meanwhile, the player must also defend their tree from the humans who are trying to cut it down. 
 
-Broot Force is a game created in 48 hours for the 2023 Global Game Jam at Ontario Tech University.
+This project started as a result of the 48 hour Global Game Jam, and our team enjoyed the premise enough to continue developing the concept further.
 
-{% include image.html url="https://kanomisu.itch.io/brootforce" image="projects/proj-3/BF1.png" %}
-{% include image.html url="https://kanomisu.itch.io/brootforce" image="projects/proj-3/BF2.png" %}
+{% include image.html url="https://theghastlytuna.itch.io/broot-force" image="projects/proj-3/BF1.png" %}
+{% include image.html url="https://theghastlytuna.itch.io/broot-force" image="projects/proj-3/BF2.png" %}
